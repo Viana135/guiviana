@@ -3,3 +3,6 @@
 🧑🏾‍💼 Hoje eu trabalho com back-end
 👨🏿‍💻 Estudando JAVA
 📧 Contate-me no email: guilhermevianasantos@gmail.com
+
+  <i class="devicon-java-plain-wordmark"></i>
+          
