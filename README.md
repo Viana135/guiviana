@@ -4,5 +4,6 @@
 👨🏿‍💻 Estudando JAVA
 📧 Contate-me no email: guilhermevianasantos@gmail.com
 
-  <i class="devicon-java-plain-wordmark"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+          
           
