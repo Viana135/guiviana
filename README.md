@@ -14,13 +14,21 @@
 
 
 
- <div>
- <img  align="center" alt="GUI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="JAVA-Gui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-</div>    
+<div align="center">
+  <h2>💻 Minha Stack de Desenvolvimento</h2>
 
+  <p>
+    <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NjgzODEsIm5iZiI6MTc2MzU2ODA4MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE5VDE2MDEyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkYmMzMzM5N2JiOGE4Yjg4ZDA5OGEyOTY4NzZlMDdkYzNhN2E4NGM1NGE1MTUyZjVhYWM4YjhlMzZjOTUxZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xDq04Rkytw9-J4z89aiKAUZ14xHbK8sYEL_usH5gUzY" alt="Ícone HTML5" height="60"/> 
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NjgzODEsIm5iZiI6MTc2MzU2ODA4MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE5VDE2MDEyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1YzNhZTczNjU0OTRjMjdmMGU3YTYxZDcwMDg2NDlmOTUzMjFhMDgyYTc0M2ZmZWVjMDM5OTAwZGJiNmRlYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YpvD7qF7ix8sAQ6cixTvJTOHUUCx864eJ60MWyvK2mY" alt="Ícone CSS3" height="60"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Ícone JavaScript" height="60"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=100&id=ETDhNONw82Nc&format=png&color=000000" alt="Ícone Java" height="60"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Ícone Visual Studio Code" height="60"/>
+  </p>
+</div>
 
 
 
