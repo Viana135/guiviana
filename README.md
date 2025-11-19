@@ -25,19 +25,27 @@
 
 
 <hr/>
+<div align="center">
+  <h2> Contact me📧</h2>
 
-<div> 
-  <a href="https://www.instagram.com/gui.viianaa?igsh=MW05ZnFtMnNiYmU5eg%3D%3D&utm_source=qr target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "guilhermevianasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p>
+    <a href="https://www.instagram.com/gui.viianaa?igsh=MW05ZnFtMnNiYmU5eg%3D%3D&utm_source=qr" target="_blank">
+      <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="50"/>
+    </a>
+    <a href="guilhermevianasantos@gmail.com">
+      <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Gmail" height="50" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/" target="_blank">
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="50"/>
+    </a>
+  </p>
 </div>
 
 
 
 
-
 <div align="center">
-  <h2>💻 Minha Stack de Desenvolvimento</h2>
+  <h2>My Development Stack💻 <h2>
 
   <p>
     <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NjgzODEsIm5iZiI6MTc2MzU2ODA4MSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE5VDE2MDEyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkYmMzMzM5N2JiOGE4Yjg4ZDA5OGEyOTY4NzZlMDdkYzNhN2E4NGM1NGE1MTUyZjVhYWM4YjhlMzZjOTUxZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xDq04Rkytw9-J4z89aiKAUZ14xHbK8sYEL_usH5gUzY" alt="Ícone HTML5" height="60"/> 
