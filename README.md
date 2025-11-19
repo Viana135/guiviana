@@ -32,7 +32,7 @@
     <a href="https://www.instagram.com/gui.viianaa?igsh=MW05ZnFtMnNiYmU5eg%3D%3D&utm_source=qr" target="_blank">
       <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="50"/>
     </a>
-    <a href="mailto:guilhermevianasantos@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox/FMfcgzQcqtcNpHcWWNnFkQhDKWQSVlSF?compose=new">
       <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Gmail" height="50" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/" target="_blank">
