@@ -1,8 +1,8 @@
-# Olá! Eu sou o Guilherme Viana Santos
+# Hello, I´m Guilherme Viana Santos, Software Developer
 
-🧑🏾‍💼 Hoje eu trabalho com back-end
-👨🏿‍💻 Estudando JAVA
-📧 Contate-me no email: guilhermevianasantos@gmail.com
+.👩‍💻 Today I work with back-end
+
+. 🕹Studying JAVA
 
 <div> 
   <a href="https://www.instagram.com/gui.viianaa?igsh=MW05ZnFtMnNiYmU5eg%3D%3D&utm_source=qr target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
