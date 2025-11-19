@@ -1,16 +1,38 @@
 
 <div align="center">
-  <h1>Hello 👋, I'm Guilherme Viana Santos</h1>
-  <h3>Software Developer</h3>
+  <img src="https://camo.githubusercontent.com/9d883386105c50cfbe7c23ab4a42ee4ce0338765e691411c35cb53b81aa09701/68747470733a2f2f7777772e656d6f6a69616c6c2e636f6d2f696d616765732f3234302f74656c656772616d2f31663434622e676966" 
+       alt="GIF Mão Acenando" 
+       width="50" 
+       height="50"/>
 
-
+  <h1>Hello! I´m Guilherme Viana Santos</h1>
 </div>
+
+
+<div>
+<p>Developer focused on Frontend and Backend, passionate about creating dynamic digital experiences.s.</p>
+
+  <br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" 
+         alt="Desenvolvedor trabalhando em pixel art" 
+         width="30%" />
+  </div>
+</div>
+  
+  <br>
+</div>
+
+
+<hr/>
 
 <div> 
   <a href="https://www.instagram.com/gui.viianaa?igsh=MW05ZnFtMnNiYmU5eg%3D%3D&utm_source=qr target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "guilhermevianasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-viana-santos-b933182b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
 
 
