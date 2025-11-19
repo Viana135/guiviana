@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <h2>  Habilidades de Guilherme Viana</h2>
+  <h2> Statistics 🎯</h2>
   
   <a href="https://github.com/Viana135" target="_blank">
     <img 
