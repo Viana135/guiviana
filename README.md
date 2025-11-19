@@ -23,3 +23,25 @@
 
 
 
+
+<div align="center">
+  <h2>  Habilidades de Guilherme Viana</h2>
+  
+  <a href="https://github.com/Viana135" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Viana135&show_icons=true&theme=onedark&hide_border=true&count_private=true" 
+      alt="Estatísticas do GitHub de Viana135" 
+      width="48%" 
+      style="max-width: 450px;" 
+    />
+  </a>
+  
+  <a href="https://github.com/Viana135" target="_blank">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viana135&layout=compact&theme=onedark&hide_border=true&langs_count=6&hide=html,css" 
+      alt="Linguagens Mais Usadas por Viana135" 
+      width="48%" 
+      style="max-width: 450px;"
+    />
+  </a>
+</div>
