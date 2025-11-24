@@ -14,7 +14,7 @@
 
   <br>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" 
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
          alt="Desenvolvedor trabalhando em pixel art" 
          width="30%" />
   </div>
@@ -48,7 +48,7 @@
   <h2>My Development Stack💻 <h2>
 
   <p>
-    <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM5ODgwOTcsIm5iZiI6MTc2Mzk4Nzc5NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI0VDEyMzYzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2OGY5OTBjYTE3MDRmYTM1MzdkZjRjNTQ3ZTUwZjIwNTFjOGZjYWZkMWE2NzQxMjliZTQ4MDBmNDE2MzM4YTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.K9Tq4jM3khc-0nZofPBXPq_tkKGhFVAvWNviZ0SyiXc" alt="Ícone HTML5" height="60"/> 
+    <img src="https://img.icons8.com/?size=100&id=aDQAeI8R62cC&format=png&color=000000" alt="Ícone HTML5" height="60"/> 
     &nbsp;&nbsp;&nbsp;
     <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM5ODgxMDIsIm5iZiI6MTc2Mzk4NzgwMiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI0VDEyMzY0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkMmEyOTI2MWUwYjkyOGQxM2UxYjdmNDg1ZWFmMDgyMDY3ZDZiOWU5ZmFlZGRjNjU0Y2I5ZmFkNjI2NDg5ZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VRYlsDy-kLk7NgVqx1ohPBZMHAw01HnBoZ0y5bP898w" alt="Ícone CSS3" height="60"/>
     &nbsp;&nbsp;&nbsp;
